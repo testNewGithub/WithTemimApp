@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">مع تميم</string>
+
+    <string name="elkolfielkot_txt"> حكايات بوليسية باللهجة التونسية, سلسلة من الحكايات الواقعية المثيرة تمّ تقديمها بطريقة ممتعة.</string>
+    <string name="recharger_facilement_txt">إذاعة القرآن الكريم التونسيّة, باقة من أروع وأفضل البرامج الدينيّة و الإجتماعيّة مع تغطية بجودة عالية.</string>
+    <string name="tetromino_txt">واحدة من أفضل الألعاب على بلاي ستور لا تتردد في تجربتها وإبداء رأيك معنا.</string>
+
+
+    <string name="language_title">إختيار اللغة</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="close">إغلاق</string>
+
+    <string name="internet_state_title">شبكة الانترنت</string>
+    <string name="internet_state_message">يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى!</string>
+    <string name="ok">إعادة المحاولة</string>
+
+    <string name="cancel_title">خروج من التطبيق</string>
+    <string name="cancel_message">هل تريد الخروج من التطبيق ؟</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+
+    <string name="bt_back">لاحقا</string>
+    <string name="bt_continue">متابعة</string>
+
+    <string name="share_title">نشرالتطبيق</string>
+    <string name="share_message">هل تريد مشاركة التطبيق مع أصدقائك ؟</string>
+
+    <string name="rate_title">تقييم التطبيق</string>
+    <string name="rate_message">رأيك يهمنا! من فضلك قم بتقييم التطبيق وأترك تعليقك لتشجيعنا على تحسن العمل في المستقبل.</string>
+
+    <string name="share_with">مشاركة التطبيق مع:</string>
+
+    <string name="share_ytvideo_message">رائعة لتميم البرغوثي, فكر و بعد أخر. شاهد الفيديو:</string>
+    <string name="share_ytvideo_dialog_title">نشر الفيديو</string>
+    <string name="share_ytvideo_dialog_message">هل تريد مشاركة الفيديو مع أصدقائك ؟</string>
+
+    <string name="item1_actinbar">بلاي ستور</string>
+    <string name="item2_actinbar">إختيار اللغة</string>
+    <string name="item3_actinbar">سياسة الخصوصية</string>
+    <string name="item4_actinbar">نشرالتطبيق</string>
+
+    <string name="fab_lable1">نشر</string>
+    <string name="fab_lable2">تقييم</string>
+    <string name="fab_lable3">خروج</string>
+
+    <string name="visit_ytchannel_bt">قناتنا على\nاليوتيوب</string>
+    <string name="plz_wait">يرجى الإنتظار …</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت! \n إعادة المحاولة.</string>
+
+    <string name="tab_title_vd">الفيديوات</string>
+    <string name="tab_title_others">متفرقات</string>
+
+    <string name="maktebeti_text">تطبيق مكتبتي-مجموعة العقل زينة, مجموعة من الكتب القيّمة, الموتنوّعة و النادرة معروضة بطريقة رائعة. لا تتردد في تجريبة التطبيق. </string>
+
+    <string name="ad_app_id">ca-app-pub-4168864559615120~7713295680</string>
+    <string name="ad_banner_item">ca-app-pub-4168864559615120/6324671320</string>
+    <string name="ad_interstitial">ca-app-pub-4168864559615120/8567691280</string>
+    <string name="ad_video">ca-app-pub-4168864559615120/8184547904</string>
+
+</resources>

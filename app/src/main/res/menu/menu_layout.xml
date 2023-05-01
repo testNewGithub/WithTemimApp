@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    
+    <item android:id="@+id/idPlayStoreApps"
+        android:icon="@drawable/shop_icon"
+        android:title="@string/item1_actinbar"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/idLangauge"
+        android:title="@string/item2_actinbar"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/idPrivacyPolicy"
+        android:title="@string/item3_actinbar"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/idShareApplication"
+        android:title="@string/item4_actinbar"
+        app:showAsAction="never" />
+
+</menu>

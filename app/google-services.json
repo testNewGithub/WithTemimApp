@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "559003993440",
+    "firebase_url": "https://with-tamim.firebaseio.com",
+    "project_id": "with-tamim",
+    "storage_bucket": "with-tamim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559003993440:android:9b1437d194949d76f98a05",
+        "android_client_info": {
+          "package_name": "com.shadow.dev.with_temim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559003993440-80nvig5dnk5q5s46hs8kmc87tldk88ab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadow.dev.with_temim",
+            "certificate_hash": "250d29731226901cc3db599eefc38e16b860d124"
+          }
+        },
+        {
+          "client_id": "559003993440-uoctn3dp9g9s8gvd9qksr6j650420g37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSMmvYoxV3aSWdMMPIe4usUXCzr2rM80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559003993440-uoctn3dp9g9s8gvd9qksr6j650420g37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4168864559615120~7713295680"
+    }
+  ],
+  "configuration_version": "1"
+}
